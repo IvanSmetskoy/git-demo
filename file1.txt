@@ -10,9 +10,13 @@ Git Gui:
 
 eight
 nine
+<<<<<<< HEAD
 ten
 _____
 branching!!!
 
 
 branching----2
+=======
+ten
+>>>>>>> fa7219d6c12119e75bad89814dd0892769646742
